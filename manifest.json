@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Simple Text Screener",
+    "version": "1.0",
+    "permissions": ["activeTab"],
+    "host_permissions": [
+      "<all_urls>"
+    ],
+    "action": {
+      "default_icon": {
+        "16": "img/icon16.png",
+        "48": "img/icon48.png",
+        "128": "img/icon128.png"
+      }
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.mjs"],
+        "css": ["content.css"]
+      }
+    ]
+  }
+  
