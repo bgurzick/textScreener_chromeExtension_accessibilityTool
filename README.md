@@ -41,9 +41,9 @@ PRIOR STATUS (22 June 2024)
 - upon extension activation, the 4 different screener bars (Left, Right, Top, Bottom) obscure the entire screen and modify content
 - the click and drag operation does not work
 
+<img width="1440" alt="Screen Shot 2024-08-29 at 10 57 29 AM" src="https://github.com/user-attachments/assets/c5a738bf-1af3-46ab-bb62-cebd7dd94fe1">
+
 <img width="1440" alt="Screen Shot 2024-08-29 at 10 57 21 AM" src="https://github.com/user-attachments/assets/85ad629d-06d7-4d23-a92c-f9c4092165f3">
 
 <img width="1440" alt="Screen Shot 2024-08-29 at 10 57 13 AM" src="https://github.com/user-attachments/assets/5be9e6a8-93f3-4bb2-9c0e-bdb4f84dd4af">
-
-<img width="1440" alt="Screen Shot 2024-08-29 at 10 57 29 AM" src="https://github.com/user-attachments/assets/c5a738bf-1af3-46ab-bb62-cebd7dd94fe1">
 
