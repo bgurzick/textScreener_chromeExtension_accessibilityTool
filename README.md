@@ -14,12 +14,13 @@ CURRENT STATUS (25 June 2024)
 - upon extension activation, the screener bar appears at the bottom of the viewport
 - upon click, the screener can be moved up or down with the drag of the mouse
 - the task bar custom icon successfully renders
+- logo/icon renders correctly
 
 - Issues
     - once the extension is activated on a website, I cannot seem to deactivate it
     - once the screener has been clicked to enable the drag function, I cannot seem to deactivate the drag function
     - the drag operation is not intuitive. It sort of works inversely to what the brain is expecting.
-    - the chrome extension menu icon is not rendering
+
 
 - Considerations for future development
     - is it worth considering side bars as well, to block what is commonly visually cluttered ad space?
